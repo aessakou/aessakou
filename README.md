@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/network)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/issues)
+[![GitHub license](https://img.shields.io/github/license/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/blob/master/LICENSE)
+
+<!-- Add more shields as needed -->
