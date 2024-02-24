@@ -1,8 +1,6 @@
 ### Hi 👋 I'm Ahmed
 ======================
 
-![Name](https://img.shields.io/badge/Name-aessakou-blue)
-
 # 42 Profile
 
 [![aessakou's 42 stats](https://badge.mediaplus.ma/darkblue/aessakou)](https://github.com/oakoudad/badge42)
