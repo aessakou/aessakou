@@ -5,6 +5,12 @@
 
 [![aessakou's 42 stats](https://badge.mediaplus.ma/darkblue/aessakou)](https://github.com/oakoudad/badge42)
 
+### Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
