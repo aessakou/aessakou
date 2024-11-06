@@ -29,5 +29,5 @@
 ![Aessakou's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aessakou&layout=compact)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aessakou&count_private=true&show_icons=true)
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aessakou&count_private=true&show_icons=true) -->
 
